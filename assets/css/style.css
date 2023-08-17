@@ -30,6 +30,7 @@ a { color:blue; text-decoration: none;}
     grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
     padding-left: 1rem;
     padding-right: 1rem;
+    height: auto;
 }
 .gif-index {
     width: 100%;
@@ -56,6 +57,9 @@ aside h2{
     align-items: center;
     font-weight: 700;
     font-style: italic;
+    margin-top: 15px;
+    bottom: 0;
+    width: 100%;
     
 }
 .anchors {
